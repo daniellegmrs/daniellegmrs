@@ -8,10 +8,12 @@
     <div align="center" style="display: inline_block"><br>
     <img align="center" alt="mysql" width="40" height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
     <img align="center" alt="Java" width="40" height="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
-    <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="SpringFramework" width="30" height="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="Angular" height="30" width="30" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">
     <img align="center" alt="git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
     
   </div>
